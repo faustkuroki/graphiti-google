@@ -1,0 +1,16 @@
+.git
+.gitignore
+README.md
+.env
+.env.local
+.env.*.local
+node_modules
+npm-debug.log*
+.DS_Store
+*.pyc
+__pycache__
+.pytest_cache
+.coverage
+htmlcov/
+.vscode
+.idea

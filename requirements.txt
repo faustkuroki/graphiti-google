@@ -1,0 +1,19 @@
+# Core dependencies
+graphiti-core[gemini]==0.3.36
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-dotenv==1.0.0
+aiofiles==23.2.1
+
+# Google dependencies
+google-generativeai==0.3.2
+google-cloud-aiplatform==1.38.1
+
+# Neo4j
+neo4j==5.15.0
+
+# Additional utilities
+httpx==0.25.2
+structlog==23.2.0
+tenacity==8.2.3
